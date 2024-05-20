@@ -5,3 +5,6 @@
 
 # Specific Hidden Files
 *.notes
+
+# Env file
+.env
