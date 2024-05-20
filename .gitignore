@@ -4,4 +4,4 @@
 .LSOverride
 
 # Specific Hidden Files
-.notes
+*.notes
